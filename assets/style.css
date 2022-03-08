@@ -1,0 +1,25 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.engineercard {
+    border: black solid 5px;
+    
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+
+
+nav {
+    background-color: white;
+    color: blue;
+    margin-bottom: 5px;
+    padding: 10px;
+    text-align: center;
+}
